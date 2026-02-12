@@ -5,3 +5,5 @@ Features:
 - Modern NUI UI
 - Standalone
 - Cooldown anti-spam
+
+©frdy
